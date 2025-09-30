@@ -22,8 +22,12 @@
 
 ```login as username: ubuntu```
 # Install Apache
+Check in browser → [http://yourpublicip](http://yourpublicip)
 
-1. Connect to your EC2 instance using SSH or PuTTY.
-2. Update package lists:
-   ```bash
-   sudo apt update
+An Apache page will be shown at your public IP.
+cd /var/www/html
+sudo rm index.html
+sudo vi index.html
+
+
+
