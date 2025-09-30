@@ -52,3 +52,5 @@ sudo apt install -y \
     lsb-release \
     jq```
 
+Add Docker’s official GPG key:
+
