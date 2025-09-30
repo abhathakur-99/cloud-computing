@@ -37,4 +37,9 @@ An Apache page will be shown at your public IP.
 - Go to Route 53 on AWS, click on **Hosted Zones**.
 <img width="1914" height="874" alt="image" src="https://github.com/user-attachments/assets/a315d447-3ef9-4674-a132-3d9aa4323c29" />
 You will get four NS name server.
+# Docker Install
+
+## Quick Install
+
+curl -sL https://github.com/ShubhamTatvamasi/docker-install/raw/master/docker-install.sh | bash
 
