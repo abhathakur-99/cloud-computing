@@ -12,7 +12,7 @@
    - SSH (22)
 6. Launch the instance.
 <img width="1920" height="889" alt="image" src="https://github.com/user-attachments/assets/06edfb66-e967-461f-9a82-f9088db6bd64" />
-# Connect to EC2 Instance (Using PuTTY/SSH)
+# 2. Connect to EC2 Instance (Using PuTTY/SSH)
 
 1. Download the `putty.exe` file and install it on your device.
 2. Open PuTTY.
@@ -21,7 +21,7 @@
 5. Connect to your EC2 instance using the instance’s public DNS or IP address.
 
 ```login as username: ubuntu```
-# Install Apache
+# 3. Install Apache
 Check in browser → [http://yourpublicip](http://yourpublicip)
 
 An Apache page will be shown at your public IP.
@@ -31,7 +31,7 @@ An Apache page will be shown at your public IP.
  Press I to insert your own html code.  
  Write your own code.  
  After writing all code, Press Ctrl+C and then write ":wq" and Press Enter.
-# 5. Map Domain with Route 53
+# 4. Map Domain with Route 53
 
 - Register your own domain name.
 - Go to Route 53 on AWS, click on **Hosted Zones**.
