@@ -11,3 +11,4 @@
    - HTTPS (443)
    - SSH (22)
 6. Launch the instance.
+<img width="1920" height="889" alt="image" src="https://github.com/user-attachments/assets/06edfb66-e967-461f-9a82-f9088db6bd64" />
