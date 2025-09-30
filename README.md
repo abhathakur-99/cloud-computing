@@ -31,3 +31,10 @@ An Apache page will be shown at your public IP.
  Press I to insert your own html code.  
  Write your own code.  
  After writing all code, Press Ctrl+C and then write ":wq" and Press Enter.
+# 5. Map Domain with Route 53
+
+- Register your own domain name.
+- Go to Route 53 on AWS, click on **Hosted Zones**.
+<img width="1914" height="874" alt="image" src="https://github.com/user-attachments/assets/a315d447-3ef9-4674-a132-3d9aa4323c29" />
+You will get four NS name server.
+
