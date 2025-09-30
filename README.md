@@ -42,4 +42,13 @@ You will get four NS name server.
 ## Quick Install
 
 curl -sL https://github.com/ShubhamTatvamasi/docker-install/raw/master/docker-install.sh | bash
+install packages: 
+<br> ```sudo apt update
+sudo apt install -y \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg \
+    lsb-release \
+    jq```
 
