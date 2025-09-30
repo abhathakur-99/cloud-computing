@@ -25,9 +25,9 @@
 Check in browser → [http://yourpublicip](http://yourpublicip)
 
 An Apache page will be shown at your public IP.
-<br>```cd /var/www/html<br>
-  sudo rm index.html<br>
-  sudo vi index.html```
-  
-
-
+<br>```cd /var/www/html ```<br>
+  ```sudo rm index.html ```<br>
+ ``` sudo vi index.html``` <br>
+ Press I to insert your own html code.  
+ Write your own code.  
+ After writing all code, Press Ctrl+C and then write ":wq" and Press Enter.
