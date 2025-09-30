@@ -25,9 +25,9 @@
 Check in browser → [http://yourpublicip](http://yourpublicip)
 
 An Apache page will be shown at your public IP.
-cd /var/www/html
-sudo rm index.html
-sudo vi index.html
-
+<br>```cd /var/www/html
+   sudo rm index.html
+  sudo vi index.html```
+  
 
 
