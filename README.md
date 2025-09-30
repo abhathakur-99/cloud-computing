@@ -12,3 +12,11 @@
    - SSH (22)
 6. Launch the instance.
 <img width="1920" height="889" alt="image" src="https://github.com/user-attachments/assets/06edfb66-e967-461f-9a82-f9088db6bd64" />
+# Connect to EC2 Instance (Using PuTTY/SSH)
+
+1. Download the `putty.exe` file and install it on your device.
+2. Open PuTTY.
+3. Go to **Connection** > **SSH** > **Auth**.
+4. Choose the key pair file (`.ppk`) you created while launching the instance.
+5. Connect to your EC2 instance using the instance’s public DNS or IP address.
+login as username: ubuntu
