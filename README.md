@@ -21,3 +21,9 @@
 5. Connect to your EC2 instance using the instance’s public DNS or IP address.
    
 ```login as username: ubuntu```
+# Install Apache
+
+1. Connect to your EC2 instance using SSH or PuTTY.
+2. Update package lists:
+   ```bash
+   sudo apt update
