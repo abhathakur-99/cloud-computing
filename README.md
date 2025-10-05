@@ -1,6 +1,6 @@
 # cloud-computing
 # 1 launch instance
-# Launch EC2 Instance on AWS
+# Launch EC2 Instance on AWS 
 
 1. Go to AWS Console, then EC2, then **Launch Instance**.
 2. Choose **Ubuntu** as the operating system.
